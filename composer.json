@@ -2,11 +2,11 @@
     "name": "fishpig/magento2-remove-gift-message",
     "description": "Remove GiftMessage.",
     "type": "project",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "autoload": {
         "psr-4": {
             "Magento\\GiftMessage\\": "Mock/Magento/GiftMessage/",
-            "Magento\\GiftMessageGraphQl\\": "Mock/Magento/GiftMessageGraphQl/",
+            "Magento\\GiftMessageGraphQl\\": "Mock/Magento/GiftMessageGraphQl/"
         }
     },
     "replace": {
